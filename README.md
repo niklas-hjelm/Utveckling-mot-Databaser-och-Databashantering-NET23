@@ -14,6 +14,13 @@
 * [SQL cheat sheet](./assets/SQL-cheat-sheet.jpg)
 
 ## Övningar
+* [Introduktionsövningar](./assets/IntroÖvningar.md)
+* [Övningasuppgifter 1](./assets/Övningar1.md)
+* [Övningasuppgifter 2](./assets/Övningar2.md)
+* [Övningasuppgifter 3](./assets/Övningar3.md)
+* [Övningasuppgifter 4](./assets/Övningar4.md)
+* [Övningasuppgifter 5](./assets/Övningar5.md)
+* [Övningasuppgifter 6](./assets/Övningar6.md)
 [Övningar Mongosh](./assets/ÖvningarMongoDB.md)
 
 ## Kursmål
