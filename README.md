@@ -24,7 +24,7 @@
 * [Övningasuppgifter 4](./assets/Övningar4.md)
 * [Övningasuppgifter 5](./assets/Övningar5.md)
 * [Övningasuppgifter 6](./assets/Övningar6.md)
-[Övningar Mongosh](./assets/ÖvningarMongoDB.md)
+* [Övningar Mongosh](./assets/ÖvningarMongoDB.md)
 
 ## Kursmål
 
