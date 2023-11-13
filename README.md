@@ -18,12 +18,12 @@
 ## Övningar
 
 * [Introduktionsövningar](./assets/IntroÖvningar.md)
-* [Övningasuppgifter 1](./assets/Övningar1.md)
-* [Övningasuppgifter 2](./assets/Övningar2.md)
-* [Övningasuppgifter 3](./assets/Övningar3.md)
-* [Övningasuppgifter 4](./assets/Övningar4.md)
-* [Övningasuppgifter 5](./assets/Övningar5.md)
-* [Övningasuppgifter 6](./assets/Övningar6.md)
+* [Övningsuppgifter 2](./assets/Övningar2.md)
+* [Övningsuppgifter 1](./assets/Övningar1.md)
+* [Övningsuppgifter 3](./assets/Övningar3.md)
+* [Övningsuppgifter 4](./assets/Övningar4.md)
+* [Övningsuppgifter 5](./assets/Övningar5.md)
+* [Övningsuppgifter 6](./assets/Övningar6.md)
 * [Övningar Mongosh](./assets/ÖvningarMongoDB.md)
 
 ## Kursmål
