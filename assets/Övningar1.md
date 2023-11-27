@@ -53,6 +53,5 @@ Vissa uppgifter ovan kan kräva att ni använder funktioner vi inte gått igenom
 funktioner där. Vi kommer gå igenom de vanligaste inbyggda funktionerna vid
 nästa tillfälle.
 
-
 Spara era queries och ta med vid nästa tillfälle, så går vi igenom uppgifterna och
-ser om vi kan lösa dem tillsammans. 
+ser om vi kan lösa dem tillsammans.
