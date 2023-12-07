@@ -33,7 +33,7 @@
 
 ## Övningar för databasuppsättning och applikationsutveckling (6-15)
 
-### Övning 6: Design av en databas med tre tabeller
+### Övning 6a: Design av en databas med tre tabeller
 - **Mål**: Skapa och designa en databas med tre relaterade tabeller.
 - **Uppgift**:
   - Definiera en databas med tabellerna `Product`, `Category` och `Supplier`.
@@ -41,6 +41,12 @@
   - `Category` bör inkludera `Id` och `Name`.
   - `Supplier` bör ha `Id`, `Name` och `ContactInformation`.
   - Upprätta relationer där `Product` har en `CategoryId` som är en främmande nyckel till `Category` och en `SupplierId` som är en främmande nyckel till `Supplier`.
+
+### Övning 6b: Scaffolda och generera DbContext och tillhörande Entiteter
+- **Mål**: Möjliggöra arbete med databasen från 6a med EntityFramework
+- **Uppgift**:
+  - Skapa ett Console projekt i Visual Studio
+  - Använd Scaffold-kommandot för att generera en DbContext och entiteter för databasen skapad ovan
 
 ### Övning 7: CRUD-operationer för en entitet
 - **Mål**: Implementera CRUD för en enskild entitet.
