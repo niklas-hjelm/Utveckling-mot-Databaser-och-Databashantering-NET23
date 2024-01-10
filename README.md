@@ -24,6 +24,7 @@
 * [Övningsuppgifter 4](./assets/Övningar4.md)
 * [Övningsuppgifter 5](./assets/Övningar5.md)
 * [Övningsuppgifter 6](./assets/Övningar6.md)
+* [Introövningar MongoSh](./assets/IntroÖvningarMongoDb.md)
 * [Övningar Mongosh](./assets/ÖvningarMongoDB.md)
 * [Övningstenta](./assets/Tenta)
 
